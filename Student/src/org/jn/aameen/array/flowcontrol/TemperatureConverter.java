@@ -7,6 +7,7 @@ public class TemperatureConverter {
 	public static void main(String[] args) {
 		// Write a program to convert temperature from Celsius to Fahrenheit and vice versa
 			
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Temperature Converter ");
 			System.out.println("Option 1 : Convert Celsius to Fahrenheit");
